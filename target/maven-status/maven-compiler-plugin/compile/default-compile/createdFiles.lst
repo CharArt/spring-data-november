@@ -1,0 +1,11 @@
+com\charart\spring\config\JpaConfig.class
+com\charart\spring\dto\PostDto.class
+com\charart\spring\config\JDBCConfig.class
+com\charart\spring\dao\hibernate\PostHibernateDAO.class
+com\charart\spring\entity\Comment.class
+com\charart\spring\entity\Post.class
+com\charart\spring\entity\Tag.class
+com\charart\spring\config\HibernateConfig.class
+com\charart\spring\dao\jdbc\PostJdbcDAO.class
+com\charart\spring\dao\jpa\PostJPAdao.class
+com\charart\spring\dao\AbstractDAO.class

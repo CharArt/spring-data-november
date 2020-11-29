@@ -1,0 +1,11 @@
+D:\ProjectOnJava\spring-data-november\src\main\java\com\charart\spring\config\JDBCConfig.java
+D:\ProjectOnJava\spring-data-november\src\main\java\com\charart\spring\dao\jdbc\PostJdbcDAO.java
+D:\ProjectOnJava\spring-data-november\src\main\java\com\charart\spring\entity\Comment.java
+D:\ProjectOnJava\spring-data-november\src\main\java\com\charart\spring\entity\Tag.java
+D:\ProjectOnJava\spring-data-november\src\main\java\com\charart\spring\dto\PostDto.java
+D:\ProjectOnJava\spring-data-november\src\main\java\com\charart\spring\dao\AbstractDAO.java
+D:\ProjectOnJava\spring-data-november\src\main\java\com\charart\spring\config\HibernateConfig.java
+D:\ProjectOnJava\spring-data-november\src\main\java\com\charart\spring\entity\Post.java
+D:\ProjectOnJava\spring-data-november\src\main\java\com\charart\spring\config\JpaConfig.java
+D:\ProjectOnJava\spring-data-november\src\main\java\com\charart\spring\dao\hibernate\PostHibernateDAO.java
+D:\ProjectOnJava\spring-data-november\src\main\java\com\charart\spring\dao\jpa\PostJPAdao.java
